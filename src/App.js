@@ -1,5 +1,6 @@
 import React from "react";
 import useNoti from "use-noti";
+import './App.css'
 
 function App() {
   const title = "title you want";
