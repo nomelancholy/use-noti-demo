@@ -1,0 +1,2 @@
+(this["webpackJsonpuse-noti-demo"]=this["webpackJsonpuse-noti-demo"]||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var o=n(0),a=n.n(o),c=n(2),i=n.n(c),r=n(3);n(9);var u=function(){var e=Object(r.a)("title you want",{body:"body you want"});return a.a.createElement("div",{className:"App"},a.a.createElement("button",{onClick:e},"notification"))};i.a.render(a.a.createElement(a.a.StrictMode,null,a.a.createElement(u,null)),document.getElementById("root"))},4:function(e,t,n){e.exports=n(10)},9:function(e,t,n){}},[[4,1,2]]]);
+//# sourceMappingURL=main.c8163ec2.chunk.js.map

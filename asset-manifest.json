@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.js": "/use-noti-demo/static/js/main.fd4364f0.chunk.js",
-    "main.js.map": "/use-noti-demo/static/js/main.fd4364f0.chunk.js.map",
+    "main.css": "/use-noti-demo/static/css/main.d2b05a0d.chunk.css",
+    "main.js": "/use-noti-demo/static/js/main.c8163ec2.chunk.js",
+    "main.js.map": "/use-noti-demo/static/js/main.c8163ec2.chunk.js.map",
     "runtime-main.js": "/use-noti-demo/static/js/runtime-main.5bdc03d0.js",
     "runtime-main.js.map": "/use-noti-demo/static/js/runtime-main.5bdc03d0.js.map",
     "static/js/2.fdf553e8.chunk.js": "/use-noti-demo/static/js/2.fdf553e8.chunk.js",
     "static/js/2.fdf553e8.chunk.js.map": "/use-noti-demo/static/js/2.fdf553e8.chunk.js.map",
     "index.html": "/use-noti-demo/index.html",
-    "precache-manifest.f26e11e2322ede706867e711a08cf9d4.js": "/use-noti-demo/precache-manifest.f26e11e2322ede706867e711a08cf9d4.js",
+    "precache-manifest.c5d75200a4fe2ca9f80c639f53452b04.js": "/use-noti-demo/precache-manifest.c5d75200a4fe2ca9f80c639f53452b04.js",
     "service-worker.js": "/use-noti-demo/service-worker.js",
+    "static/css/main.d2b05a0d.chunk.css.map": "/use-noti-demo/static/css/main.d2b05a0d.chunk.css.map",
     "static/js/2.fdf553e8.chunk.js.LICENSE.txt": "/use-noti-demo/static/js/2.fdf553e8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5bdc03d0.js",
     "static/js/2.fdf553e8.chunk.js",
-    "static/js/main.fd4364f0.chunk.js"
+    "static/css/main.d2b05a0d.chunk.css",
+    "static/js/main.c8163ec2.chunk.js"
   ]
 }
